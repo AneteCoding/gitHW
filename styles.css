@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(230, 220, 208);
+  text-align: center;
+}
+
+h1 {
+  color: blueviolet;
+}
+h3 {
+  color: rgb(255, 0, 128);
+}
+
+img {
+  padding: 20px 40px;
+  display: block;
+  margin: 0 auto;
+  max-width: 20%;
+}
+
+p {
+  color: rgb(165, 75, 110);
+  padding: 40px;
+}
